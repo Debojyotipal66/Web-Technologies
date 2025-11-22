@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Different Fonts Paragraph</title>
+    <style>
+        .sentence1 {
+            font-family: 'Arial', sans-serif;
+        }
+        .sentence2 {
+            font-family: 'Algerian', serif;
+        }
+        .sentence3 {
+            font-family: 'Bell MT', sans-serif;
+        }
+        .sentence4 {
+            font-family: 'Broadway', monospace;
+        }
+        .sentence5 {
+            font-family: 'Bahnschrift', serif;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        <span class="sentence1">This is the first sentence of our paragraph, styled with Arial.</span>
+        <span class="sentence2">The second sentence follows, presented in Algerian.</span>
+        <span class="sentence3">Here is the third sentence, utilizing the Bell MT font.</span>
+        <span class="sentence4">And now, the fourth sentence, displayed in Broadway.</span>
+        <span class="sentence5">Finally, the fifth sentence concludes the paragraph, rendered in Bahnschrift.</span>
+    </p>
+
+</body>
+</html>
