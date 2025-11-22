@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Frameset Example</title>
+</head>
+
+<!-- Divide the page into two vertical frames -->
+<frameset cols="30%, 70%">
+    
+    <!-- Left frame -->
+    <frame src="left.html" name="leftFrame" scrolling="auto">
+
+    <!-- Right side split into two horizontal frames -->
+    <frameset rows="50%, 50%">
+        <frame src="top.html" name="topFrame" scrolling="auto">
+        <frame src="bottom.html" name="bottomFrame" scrolling="auto">
+    </frameset>
+
+</frameset>
+
+</html>
