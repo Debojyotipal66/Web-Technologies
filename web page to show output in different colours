@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Numbers in Different Colors</title>
+    <style>
+        .color-1 { color: red; }
+        .color-2 { color: blue; }
+        .color-3 { color: green; }
+        .color-4 { color: orange; }
+        .color-5 { color: purple; }
+        .color-6 { color: teal; }
+        .color-7 { color: brown; }
+        .color-8 { color: navy; }
+        .color-9 { color: olive; }
+        .color-10 { color: maroon; }
+    </style>
+</head>
+<body>
+    <p class="color-1">1</p>
+    <p class="color-2">2</p>
+    <p class="color-3">3</p>
+    <p class="color-4">4</p>
+    <p class="color-5">5</p>
+    <p class="color-6">6</p>
+    <p class="color-7">7</p>
+    <p class="color-8">8</p>
+    <p class="color-9">9</p>
+    <p class="color-10">10</p>
+</body>
+</html>
